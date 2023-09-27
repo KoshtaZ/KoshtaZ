@@ -31,14 +31,23 @@
 
 
 #### 🤾‍♂️ <a href="https://tw93.fun" target="_blank">Recent Blog</a>
+<!-- blog starts -->
 
+- <a href='https://tw93.fun/2023-09-18/open.html' target='_blank'>该以一种怎么样的心态来对待开源</a> - 2023-09-18
+
+<!-- blog ends -->
 
 
 </td>
 <td valign="top" width="50%">
 
 #### 🩴 <a href="https://weekly.tw93.fun" target="_blank">Trend Weekly</a>
+<!-- weekly starts -->
 
+- [第 145 期 - 小橡皮树](https://weekly.tw93.fun/posts/145-%E5%B0%8F%E6%A9%A1%E7%9A%AE%E6%A0%91) - 2023-09-10
+
+
+<!-- weekly ends -->
 
 
 </td>
